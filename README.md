@@ -1,6 +1,6 @@
 # dice_roller_a
 
-A new Flutter project.
+This project is a dice rolling application written in Dart programming language with Flutter
 
 ## Getting Started
 
